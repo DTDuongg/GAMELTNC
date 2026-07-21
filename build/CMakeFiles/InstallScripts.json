@@ -1,0 +1,17 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/HP/Downloads/LTNC-GameN6-main/LTNC-GameN6-main/build/cmake_install.cmake",
+		"C:/Users/HP/Downloads/LTNC-GameN6-main/LTNC-GameN6-main/build/01_Intro/Source/cmake_install.cmake",
+		"C:/Users/HP/Downloads/LTNC-GameN6-main/LTNC-GameN6-main/build/02_Resources/Source/cmake_install.cmake",
+		"C:/Users/HP/Downloads/LTNC-GameN6-main/LTNC-GameN6-main/build/03_World/Source/cmake_install.cmake",
+		"C:/Users/HP/Downloads/LTNC-GameN6-main/LTNC-GameN6-main/build/04_Input/Source/cmake_install.cmake",
+		"C:/Users/HP/Downloads/LTNC-GameN6-main/LTNC-GameN6-main/build/05_States/Source/cmake_install.cmake",
+		"C:/Users/HP/Downloads/LTNC-GameN6-main/LTNC-GameN6-main/build/06_Menus/Source/cmake_install.cmake",
+		"C:/Users/HP/Downloads/LTNC-GameN6-main/LTNC-GameN6-main/build/07_Gameplay/Source/cmake_install.cmake",
+		"C:/Users/HP/Downloads/LTNC-GameN6-main/LTNC-GameN6-main/build/08_Graphics/Source/cmake_install.cmake",
+		"C:/Users/HP/Downloads/LTNC-GameN6-main/LTNC-GameN6-main/build/09_Audio/Source/cmake_install.cmake",
+		"C:/Users/HP/Downloads/LTNC-GameN6-main/LTNC-GameN6-main/build/10_Network/Source/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
